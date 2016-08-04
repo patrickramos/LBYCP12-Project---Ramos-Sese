@@ -7,13 +7,14 @@
 - programming language to be used will be JAVA
 - library function will be OpenCV and Java.swing, acm.jar
 
+##Flowchart:
 
 ##Data Structures to be used:
 - dynamic list
-
+- stack
 
 ##Main Interest:
-
+Nowadays the use of detection based applications is widely used, it will be interesting developing object detection based programs and applications.
 
 ##Significance:
 - barcode system has good accuracy
