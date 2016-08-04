@@ -23,6 +23,6 @@ Nowadays the use of detection based applications is widely used, it will be inte
 - the control in the input items or the inventory will be easy because of the dynamic list
 
 ##Labor Distribution:
-- Graphical User Interface (Patrick Ramos)
-- Data Structure Implementation (Miguel Sese)
+NO LABOR DISTRIBUTION ALL IN TEAMWORK!
+STRENGTH IN NUMBERS!
 
