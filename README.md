@@ -5,11 +5,12 @@
 ##Features:
 - detects barcode then displays the corresponding item with respect to the barcode
 - programming language to be used will be JAVA
-- library function will be OpenCV and Java.swing
+- library function will be OpenCV and Java.swing, acm.jar
 
 
 ##Data Structures to be used:
 - dynamic list
+
 
 ##Main Interest:
 
