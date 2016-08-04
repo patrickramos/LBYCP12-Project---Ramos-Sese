@@ -12,7 +12,7 @@ Data Structures to be used:
 - dynamic list
 
 Main Interest:
--
+
 
 Significance:
 -barcode system has good accuracy
