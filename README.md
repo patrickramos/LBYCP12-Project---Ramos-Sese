@@ -10,7 +10,6 @@ Features:
 
 Data Structures to be used:
 - dynamic list
-- 
 
 Main Interest:
 -
