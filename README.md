@@ -8,6 +8,7 @@
 - library function will be OpenCV and Java.swing, acm.jar
 
 ##Flowchart:
+![1](https://cloud.githubusercontent.com/assets/16619094/17388918/30f9c1cc-5a32-11e6-9325-bbff4418e57b.png)
 
 ##Data Structures to be used:
 - dynamic list
